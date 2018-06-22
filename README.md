@@ -4,7 +4,7 @@ Automatically translate plain text to html blog with Python.
 
 ## Introduction
 
-`html` is a powerful language for writing and publishing blogs. However, not everyone knows its syntax clearly. For example, little Wendy want to publish blogs on my website, but she knows little about `html`. This is exactly where this idea comes from. With this program, everyone is able to write html blogs with markdown rules.
+`html` is a powerful language for writing and publishing blogs. However, not everyone knows its syntax clearly. For example, little Wendy want to publish blogs on my website, but she knows little about `html`. This is exactly where this idea comes from. With this program, everyone is able to write html blogs with basic markdown rules.
 
 ## Features
 
