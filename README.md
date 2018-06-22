@@ -4,15 +4,15 @@ Automatically translate plain text to html blog with Python.
 
 ## Introduction
 
-`html` is a powerful language for writing and publishing blogs. However, not everyone knows its gramma clearly. For example, little Wendy want to publish blogs on my website, but she knows little about `html`. This is exactly where this idea comes from. With this program, everyone is able to write html blogs with markdown rules.
+`html` is a powerful language for writing and publishing blogs. However, not everyone knows its syntax clearly. For example, little Wendy want to publish blogs on my website, but she knows little about `html`. This is exactly where this idea comes from. With this program, everyone is able to write html blogs with markdown rules.
 
 ## Features
 
 - Automatically extract title, author, date and place information.
-- Automatically translate section names to html headers (# -> '<h></h>' pairs).
-- Automatically translate paragraphs to html paragraphs ( -> '<p></p>' pairs).
-- Automatically translate images to html images ($ -> '<img>').
-- Automatically translate empty lines to html line breaks ('\n' -> '<br>')
+- Automatically translate section names to html headers (`#` -> `<h></h>` pairs).
+- Automatically translate paragraphs to html paragraphs (` ` -> `<p></p>` pairs).
+- Automatically translate images to html images (`$` -> `<img>`).
+- Automatically translate empty lines to html line breaks (`\n` -> `<br>`)
 - Automatically embed blog body in a complete html file.
 
 ## How to Use
