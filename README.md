@@ -9,10 +9,10 @@ Automatically translate plain text to html blog with Python.
 ## Features
 
 - Automatically extract title, author, date and place information.
-- Automatically translate section names to html headers (# -> <h></h> pairs).
-- Automatically translate paragraphs to html paragraphs ( -> <p></p> pairs).
-- Automatically translate images to html images ($ -> <img>).
-- Automatically translate empty lines to html line breaks ('\n' -> <br>)
+- Automatically translate section names to html headers (# -> '<h></h>' pairs).
+- Automatically translate paragraphs to html paragraphs ( -> '<p></p>' pairs).
+- Automatically translate images to html images ($ -> '<img>').
+- Automatically translate empty lines to html line breaks ('\n' -> '<br>')
 - Automatically embed blog body in a complete html file.
 
 ## How to Use
